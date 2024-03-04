@@ -1,13 +1,4 @@
-# CSCI-5408-W2022-DPG10
-
-Data Manage& Analytics course Winter 2022
-Team dpg-10 project
-
-## Git Steps
-
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
-
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+# Distributed Database Application
 
 ## Running the application locally
 
@@ -18,5 +9,3 @@ Alternatively you can use the [Spring Boot Maven plugin](https://docs.spring.io/
 ```shell
 mvn spring-boot:run
 ```
-
-### Deployment Details
